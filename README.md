@@ -5,7 +5,7 @@
 This project is an analysis to provide hotel suggestion for customers planning a trip based on latitude and longitude locations and weather.
 
 ### Resources
-Data Source: cities.csv Software: Python 3.7, Jupyter Notebook 
+Data Source: cities.csv Software: Python 3.7, Jupyter Notebook <br />
 URL: OpenWeather, Google Maps
 
 ### Part 1
