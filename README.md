@@ -13,7 +13,7 @@ This is a DataFrame summary of a set of random cities of different latitudes and
 
 ### DataFrame Summary
 
-
+![dataframe](https://github.com/Samira786/World_Weather_Analysis/blob/master/Part%201%20Dataframe.png)
 
 ### Part 2
 
@@ -21,11 +21,16 @@ The image below is an example of locations in which customers are able to pick t
 
 ### Cities for customers to choose
 
+![cities](https://github.com/Samira786/World_Weather_Analysis/blob/master/Map.png)
+
 ### Part 3
 
 These are the cities mapped for the Europe trip with driving as the mode of travel. Pop-up markers were also created to indicate hotel name, city, country and weather during the travel.
 
 ### Vacation Map
 
+![vacation](https://github.com/Samira786/World_Weather_Analysis/blob/master/Itenarary.png)
 
 ### Pop-Up Markers
+
+![popup](https://github.com/Samira786/World_Weather_Analysis/blob/master/Cities%20to%20visit.png)
